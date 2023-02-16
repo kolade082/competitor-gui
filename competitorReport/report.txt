@@ -1,0 +1,30 @@
+The report
+111   Jomon Vicy          pro       UK    22  34.0      8.5       10  6   
+117   Patrick Shanon      Amateur   US    22  32.0      8.0       10  4   
+115   Methen George       Novice    UK    30  32.0      8.0       10  7   
+110   Mary Francis        pro       UK    27  28.0      7.0       9   6   
+120   Kolade Dara         Novice    Nig   21  28.0      7.0       8   6   
+127   Roland Bot          Novice    Nig   35  27.0      6.75      9   3   
+109   Andy Stov           Expert    US    22  23.0      5.75      9   2   
+125   Jigat Rato          Pro       Nig   23  23.0      5.75      9   3   
+106   Vicy Mathew         pro       UK    33  22.0      5.5       9   2   
+105   Harry Patrick       pro       UK    32  21.0      5.25      8   2   
+119   Lijo Willam         Novice    UK    28  21.0      5.25      8   2   
+124   Loth Rgar           Amateur   Nig   23  21.0      5.25      9   3   
+126   Wena Bora           Novice    UK    25  21.0      5.25      9   1   
+118   Rod Stod            Novice    UK    26  20.0      5.0       9   2   
+121   jiggs Saw           Expert    UK    24  20.0      5.0       7   3   
+123   Dera Tara           Novice    US    34  20.0      5.0       7   2   
+108   Susan Mathew        Amateur   US    28  19.0      4.75      6   3   
+116   Scarlett John       Novice    UK    25  19.0      4.75      6   3   
+101   George Beth Shon    Novice    UK    31  18.0      4.5       6   2   
+104   Mark Do Leno        Amateur   UK    22  18.0      4.5       7   2   
+107   Monica Loy          Expert    US    29  18.0      4.5       8   2   
+114   Jojo Monye          Novice    UK    31  18.0      4.5       7   2   
+100   Ann Sthen           Novice    UK    23  17.0      4.25      9   1   
+113   Aby Mathew          pro       UK    34  16.0      4.0       6   2   
+102   Kaith Andy Close    Novice    UK    30  15.0      3.75      7   2   
+122   Greta Beta          Pro       Nig   30  15.0      5.0       6   4   
+103   Rinon Grovey        Expert    US    25  14.0      3.5       7   1   
+112   Catherin Georg      Novice    UAE   22  11.0      2.75      4   1   
+128   Viking Beto         Amateur   US    24  34.0      8.5       10  4   
